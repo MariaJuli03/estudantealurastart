@@ -1,6 +1,6 @@
 # estudantealurastart
 Boas vindas ao meu perfil 💙💙
-Meu nome é Maria JUlia Torres 
+Meu nome é Maria Julia Torres 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
